@@ -33,9 +33,13 @@ I specialize in backend development using Node.js, Django, and Laravel, with str
 🛠️ Tech Stack
 
 Backend: Node.js (Express), Django (Python), Laravel (PHP)
+
 Frontend: JavaScript, Angular, Vue, HTML5, CSS3, Bootstrap
+
 Databases: MongoDB, MySQL
+
 Dev Tools: Docker, Git, REST APIs, GraphQL, WordPress
+
 Operating Systems: Linux (Red Hat), Windows
 
 🚀 Highlighted Projects
@@ -70,6 +74,7 @@ Focused on clean UI, accessibility, and performance optimization.
 
 Information Technology Institute (ITI) – 9-Month Professional Diploma
 Open Source Track | 2024 – 2025
+
 Assiut University – B.Ed. in Chemistry | 2016 – 2021
 
 🌱 Currently Learning

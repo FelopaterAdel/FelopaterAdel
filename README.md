@@ -23,9 +23,62 @@
 
 ###
 
-<p align="left"># Hi there 👋<br><br>I'm **Felopater Adel** from **Egypt**.  <br><br>- 🔭 I’m working as a **Web Developer** with experience in both front-end and back-end technologies.  <br>- 📚 I'm currently learning and working with **Python, PHP (Laravel), React, Angular, NestJS, Next.js, Ruby on Rails, GraphQL, .  <br>- ⚡ In my free time I enjoy **building side projects, contributing to open-source code, and diving into tech topics to strengthen my problem-solving skills**.  <br><br>💡 I’m passionate about creating clean, scalable applications and constantly improving my skills to stay up to date with modern web development.</p>
+<p align="left">👋 Hi, I’m Felopater Adel
 
-###
+I’m a Full-Stack Web Developer passionate about building scalable and efficient web applications.
+I specialize in backend development using Node.js, Django, and Laravel, with strong skills in frontend technologies like JavaScript, HTML5, CSS3, and modern frameworks.
+
+💡 I enjoy solving complex problems, writing clean and maintainable code, and continuously improving my skills through new technologies and real-world projects.
+
+🛠️ Tech Stack
+
+Backend: Node.js (Express), Django (Python), Laravel (PHP)
+Frontend: JavaScript, Angular, Vue, HTML5, CSS3, Bootstrap
+Databases: MongoDB, MySQL
+Dev Tools: Docker, Git, REST APIs, GraphQL, WordPress
+Operating Systems: Linux (Red Hat), Windows
+
+🚀 Highlighted Projects
+
+Debla – Multi-Vendor Gold E-Commerce Platform
+Built backend logic for real-time gold price updates, AI-powered product descriptions (RAG + GPT), and secure APIs for live chat and chatbot support.
+Tech: Node.js, Express, MongoDB, RAG, WebSockets
+
+Exam System
+Full-stack web app for managing online exams, featuring authentication, role-based access, and real-time analytics.
+Tech: Node.js, Express, Angular, MongoDB, JWT
+🔗 Live Demo
+
+Smart Task Manager (Django)
+Django app with task tracking, CRUD operations, analytics dashboard, and responsive UI.
+Tech: Django, MySQL, Bootstrap, Chart.js
+
+Freelance Platform (Laravel)
+A platform connecting clients and freelancers with authentication, project listings, and dashboards.
+Tech: Laravel, MySQL
+
+💼 Experience
+
+Freelance Web Developer – Mostaql (2025)
+
+Built and customized a modern, responsive WordPress website for a client.
+
+Focused on clean UI, accessibility, and performance optimization.
+🔗 https://aldrees.info
+
+📚 Education
+
+Information Technology Institute (ITI) – 9-Month Professional Diploma
+Open Source Track | 2024 – 2025
+Assiut University – B.Ed. in Chemistry | 2016 – 2021
+
+🌱 Currently Learning
+
+Advanced Node.js and API performance optimization
+
+GraphQL with authentication and authorization
+
+Python design patterns
 
 <h3 align="left">🛠 Language and tools</h3>
 
